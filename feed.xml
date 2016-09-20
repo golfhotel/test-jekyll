@@ -6,9 +6,22 @@
 </description>
     <link>http://example.com/test-jekyll/</link>
     <atom:link href="http://example.com/test-jekyll/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Sep 2016 09:44:38 +0000</pubDate>
-    <lastBuildDate>Tue, 20 Sep 2016 09:44:38 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Sep 2016 12:57:49 +0000</pubDate>
+    <lastBuildDate>Tue, 20 Sep 2016 12:57:49 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>A post test</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, semper et risus et libero, imperdiet ante enim congue. Consequat felis velit lobortis ultrices volutpat, nonummy turpis, condimentum mauris donec, odio cras, platea dapibus cras justo sed quis ullamcorper. Sem augue, amet accumsan bibendum morbi, malesuada nunc quam interdum, id magna orci. Dui eleifend libero, nulla magna, dictum sit, donec vestibulum ultrices, nullam rutrum vestibulum tempor elit. Luctus pellentesque est, nec pretium vestibulum faucibus at eros. Risus senectus velit, enim vel, sodales duis eu condimentum sed integer lacus, convallis nunc magna vestibulum.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, semper et risus et libero, imperdiet ante enim congue. Consequat felis velit lobortis ultrices volutpat, nonummy turpis, condimentum mauris donec, odio cras, platea dapibus cras justo sed quis ullamcorper. Sem augue, amet accumsan bibendum morbi, malesuada nunc quam interdum, id magna orci. Dui eleifend libero, nulla magna, dictum sit, donec vestibulum ultrices, nullam rutrum vestibulum tempor elit. Luctus pellentesque est, nec pretium vestibulum faucibus at eros. Risus senectus velit, enim vel, sodales duis eu condimentum sed integer lacus, convallis nunc magna vestibulum.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 20 Sep 2016 11:41:00 +0000</pubDate>
+        <link>http://example.com/test-jekyll/posts/a-post-test</link>
+        <guid isPermaLink="true">http://example.com/test-jekyll/posts/a-post-test</guid>
+        
+        
+      </item>
     
       <item>
         <title>Le strutture</title>
