@@ -6,9 +6,20 @@
 </description>
     <link>http://example.com/test-jekyll/</link>
     <atom:link href="http://example.com/test-jekyll/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 22 Sep 2016 13:48:06 +0200</pubDate>
-    <lastBuildDate>Thu, 22 Sep 2016 13:48:06 +0200</lastBuildDate>
+    <pubDate>Thu, 22 Sep 2016 13:54:58 +0200</pubDate>
+    <lastBuildDate>Thu, 22 Sep 2016 13:54:58 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Future post 2</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, semper et risus et libero, imperdiet ante enim congue. Consequat felis velit lobortis ultrices volutpat, nonummy turpis, condimentum mauris donec, odio cras, platea dapibus cras justo sed quis ullamcorper. Sem augue, amet accumsan bibendum morbi, malesuada nunc quam interdum, id magna orci. Dui eleifend libero, nulla magna, dictum sit, donec vestibulum ultrices, nullam rutrum vestibulum tempor elit. Luctus pellentesque est, nec pretium vestibulum faucibus at eros. Risus senectus velit, enim vel, sodales duis eu condimentum sed integer lacus, convallis nunc magna vestibulum.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 22 Sep 2016 13:56:00 +0200</pubDate>
+        <link>http://example.com/test-jekyll/posts/future-post-2</link>
+        <guid isPermaLink="true">http://example.com/test-jekyll/posts/future-post-2</guid>
+        
+        
+      </item>
     
       <item>
         <title>Foo</title>
@@ -964,21 +975,6 @@ Inserisci una parola: qweeerty
         <pubDate>Mon, 22 Aug 2016 00:00:00 +0200</pubDate>
         <link>http://example.com/test-jekyll/posts/gestire-le-stringhe-con-getchar</link>
         <guid isPermaLink="true">http://example.com/test-jekyll/posts/gestire-le-stringhe-con-getchar</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Ipset lorum ipse </title>
-        <description>&lt;p&gt;Lorem ipsum dolor sit amet, lacinia adipiscing quisque, nam ipsum amet non, elit maecenas pede eget nulla, faucibus fringilla purus dolor maecenas. Laboris tellus senectus luctus tellus quam vestibulum, massa odio a lacus nulla vestibulum, odio fermentum nibh. Rhoncus nec aliquam vel hendrerit excepteur, non suspendisse duis feugiat vitae, lacinia eros eget mollis integer, in montes proin cras adipiscing fermentum nunc. Suscipit quis et convallis rhoncus, vestibulum luctus sapien vehicula est vestibulum. Mollis nonummy neque montes sodales, nibh eu, eros amet mauris aptent pede sit donec, et aenean congue imperdiet velit integer. Semper purus magna justo. Porta sed. Integer at integer sollicitudin ipsum erat eu, inceptos fusce. Wisi vestibulum pulvinar elit in. In vitae sem, orci nibh aliquet accumsan, in neque et turpis semper, vel varius arcu faucibus risus ac felis, varius dignissim in.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/test-jekyll/forestryio/images/Lighthouse.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, lacinia adipiscing quisque, nam ipsum amet non, elit maecenas pede eget nulla, faucibus fringilla purus dolor maecenas. Laboris tellus senectus luctus tellus quam vestibulum, massa odio a lacus nulla vestibulum, odio fermentum nibh. Rhoncus nec aliquam vel hendrerit excepteur, non suspendisse duis feugiat vitae, lacinia eros eget mollis integer, in montes proin cras adipiscing fermentum nunc. Suscipit quis et convallis rhoncus, vestibulum luctus sapien vehicula est vestibulum. Mollis nonummy neque montes sodales, nibh eu, eros amet mauris aptent pede sit donec, et aenean congue imperdiet velit integer. Semper purus magna justo. Porta sed. Integer at integer sollicitudin ipsum erat eu, inceptos fusce. Wisi vestibulum pulvinar elit in. In vitae sem, orci nibh aliquet accumsan, in neque et turpis semper, vel varius arcu faucibus risus ac felis, varius dignissim in.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 10 Aug 2016 00:00:00 +0200</pubDate>
-        <link>http://example.com/test-jekyll/posts/ipset-lorum-ipse</link>
-        <guid isPermaLink="true">http://example.com/test-jekyll/posts/ipset-lorum-ipse</guid>
         
         
       </item>
