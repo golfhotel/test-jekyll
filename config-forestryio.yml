@@ -111,7 +111,7 @@ defaults:
     type: posts
   values:
     layout: post
-    permalink: "/:collection/:title"
+    permalink: "/:title"
     author: Mr. Jack
     categories: 
     summary: ''
