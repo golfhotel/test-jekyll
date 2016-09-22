@@ -6,28 +6,17 @@
 </description>
     <link>http://example.com/test-jekyll/</link>
     <atom:link href="http://example.com/test-jekyll/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 22 Sep 2016 16:33:51 +0000</pubDate>
-    <lastBuildDate>Thu, 22 Sep 2016 16:33:51 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Sep 2016 17:04:39 +0000</pubDate>
+    <lastBuildDate>Thu, 22 Sep 2016 17:04:39 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
-    
-      <item>
-        <title>Taz</title>
-        <description>&lt;p&gt;&lt;strong&gt;Second2–&lt;/strong&gt; Lorem ipsum dolor sit amet, semper et risus et libero, imperdiet ante enim congue. Consequat felis velit lobortis ultrices volutpat, nonummy turpis, condimentum mauris donec, odio cras, platea dapibus cras justo sed quis ullamcorper. Sem augue, amet accumsan bibendum morbi, malesuada nunc quam interdum, id magna orci. Dui eleifend libero, nulla magna, dictum sit, donec vestibulum ultrices, nullam rutrum vestibulum tempor elit. Luctus pellentesque est, nec pretium vestibulum faucibus at eros. Risus senectus velit, enim vel, sodales duis eu condimentum sed integer lacus, convallis nunc magna vestibulum.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 22 Sep 2016 16:31:00 +0000</pubDate>
-        <link>http://example.com/test-jekyll/posts/1-taz</link>
-        <guid isPermaLink="true">http://example.com/test-jekyll/posts/1-taz</guid>
-        
-        
-      </item>
     
       <item>
         <title>Taz</title>
         <description>&lt;p&gt;&lt;strong&gt;Second&lt;/strong&gt; Lorem ipsum dolor sit amet, semper et risus et libero, imperdiet ante enim congue. Consequat felis velit lobortis ultrices volutpat, nonummy turpis, condimentum mauris donec, odio cras, platea dapibus cras justo sed quis ullamcorper. Sem augue, amet accumsan bibendum morbi, malesuada nunc quam interdum, id magna orci. Dui eleifend libero, nulla magna, dictum sit, donec vestibulum ultrices, nullam rutrum vestibulum tempor elit. Luctus pellentesque est, nec pretium vestibulum faucibus at eros. Risus senectus velit, enim vel, sodales duis eu condimentum sed integer lacus, convallis nunc magna vestibulum.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 22 Sep 2016 16:26:00 +0000</pubDate>
-        <link>http://example.com/test-jekyll/posts/taz</link>
-        <guid isPermaLink="true">http://example.com/test-jekyll/posts/taz</guid>
+        <pubDate>Thu, 22 Sep 2016 00:00:00 +0000</pubDate>
+        <link>http://example.com/test-jekyll/</link>
+        <guid isPermaLink="true">http://example.com/test-jekyll/</guid>
         
         
       </item>
@@ -36,9 +25,9 @@
         <title>Future post 101</title>
         <description>&lt;p&gt;Lorem ipsum dolor sit amet, semper et risus et libero, imperdiet ante enim congue. Consequat felis velit lobortis ultrices volutpat, nonummy turpis, condimentum mauris donec, odio cras, platea dapibus cras justo sed quis ullamcorper. Sem augue, amet accumsan bibendum morbi, malesuada nunc quam interdum, id magna orci. Dui eleifend libero, nulla magna, dictum sit, donec vestibulum ultrices, nullam rutrum vestibulum tempor elit. Luctus pellentesque est, nec pretium vestibulum faucibus at eros. Risus senectus velit, enim vel, sodales duis eu condimentum sed integer lacus, convallis nunc magna vestibulum.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 22 Sep 2016 14:00:00 +0000</pubDate>
-        <link>http://example.com/test-jekyll/posts/future-post-101</link>
-        <guid isPermaLink="true">http://example.com/test-jekyll/posts/future-post-101</guid>
+        <pubDate>Thu, 22 Sep 2016 00:00:00 +0000</pubDate>
+        <link>http://example.com/test-jekyll/</link>
+        <guid isPermaLink="true">http://example.com/test-jekyll/</guid>
         
         
       </item>
@@ -48,8 +37,19 @@
         <description>&lt;p&gt;Lorem ipsum dolor sit amet, semper et risus et libero, imperdiet ante enim congue. Consequat felis velit lobortis ultrices volutpat, nonummy turpis, condimentum mauris donec, odio cras, platea dapibus cras justo sed quis ullamcorper. Sem augue, amet accumsan bibendum morbi, malesuada nunc quam interdum, id magna orci. Dui eleifend libero, nulla magna, dictum sit, donec vestibulum ultrices, nullam rutrum vestibulum tempor elit. Luctus pellentesque est, nec pretium vestibulum faucibus at eros. Risus senectus velit, enim vel, sodales duis eu condimentum sed integer lacus, convallis nunc magna vestibulum.&lt;/p&gt;
 </description>
         <pubDate>Thu, 22 Sep 2016 00:00:00 +0000</pubDate>
-        <link>http://example.com/test-jekyll/posts/foo</link>
-        <guid isPermaLink="true">http://example.com/test-jekyll/posts/foo</guid>
+        <link>http://example.com/test-jekyll/</link>
+        <guid isPermaLink="true">http://example.com/test-jekyll/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Taz</title>
+        <description>&lt;p&gt;&lt;strong&gt;Second2–&lt;/strong&gt; Lorem ipsum dolor sit amet, semper et risus et libero, imperdiet ante enim congue. Consequat felis velit lobortis ultrices volutpat, nonummy turpis, condimentum mauris donec, odio cras, platea dapibus cras justo sed quis ullamcorper. Sem augue, amet accumsan bibendum morbi, malesuada nunc quam interdum, id magna orci. Dui eleifend libero, nulla magna, dictum sit, donec vestibulum ultrices, nullam rutrum vestibulum tempor elit. Luctus pellentesque est, nec pretium vestibulum faucibus at eros. Risus senectus velit, enim vel, sodales duis eu condimentum sed integer lacus, convallis nunc magna vestibulum.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 22 Sep 2016 00:00:00 +0000</pubDate>
+        <link>http://example.com/test-jekyll/</link>
+        <guid isPermaLink="true">http://example.com/test-jekyll/</guid>
         
         
       </item>
@@ -59,8 +59,8 @@
         <description>&lt;p&gt;&lt;strong&gt;This is a future post.&lt;/strong&gt; Lorem ipsum dolor sit amet, semper et risus et libero, imperdiet ante enim congue. Consequat felis velit lobortis ultrices volutpat, nonummy turpis, condimentum mauris donec, odio cras, platea dapibus cras justo sed quis ullamcorper. Sem augue, amet accumsan bibendum morbi, malesuada nunc quam interdum, id magna orci. Dui eleifend libero, nulla magna, dictum sit, donec vestibulum ultrices, nullam rutrum vestibulum tempor elit. Luctus pellentesque est, nec pretium vestibulum faucibus at eros. Risus senectus velit, enim vel, sodales duis eu condimentum sed integer lacus, convallis nunc magna vestibulum.&lt;/p&gt;
 </description>
         <pubDate>Tue, 20 Sep 2016 00:00:00 +0000</pubDate>
-        <link>http://example.com/test-jekyll/posts/future-post</link>
-        <guid isPermaLink="true">http://example.com/test-jekyll/posts/future-post</guid>
+        <link>http://example.com/test-jekyll/</link>
+        <guid isPermaLink="true">http://example.com/test-jekyll/</guid>
         
         
       </item>
@@ -70,8 +70,8 @@
         <description>&lt;p&gt;&lt;strong&gt;This is a future post.&lt;/strong&gt; Lorem ipsum dolor sit amet, semper et risus et libero, imperdiet ante enim congue. Consequat felis velit lobortis ultrices volutpat, nonummy turpis, condimentum mauris donec, odio cras, platea dapibus cras justo sed quis ullamcorper. Sem augue, amet accumsan bibendum morbi, malesuada nunc quam interdum, id magna orci. Dui eleifend libero, nulla magna, dictum sit, donec vestibulum ultrices, nullam rutrum vestibulum tempor elit. Luctus pellentesque est, nec pretium vestibulum faucibus at eros. Risus senectus velit, enim vel, sodales duis eu condimentum sed integer lacus, convallis nunc magna vestibulum.&lt;/p&gt;
 </description>
         <pubDate>Tue, 20 Sep 2016 00:00:00 +0000</pubDate>
-        <link>http://example.com/test-jekyll/posts/future-post</link>
-        <guid isPermaLink="true">http://example.com/test-jekyll/posts/future-post</guid>
+        <link>http://example.com/test-jekyll/</link>
+        <guid isPermaLink="true">http://example.com/test-jekyll/</guid>
         
         
       </item>
@@ -83,8 +83,8 @@
 &lt;p&gt;Lorem ipsum dolor sit amet, semper et risus et libero, imperdiet ante enim congue. Consequat felis velit lobortis ultrices volutpat, nonummy turpis, condimentum mauris donec, odio cras, platea dapibus cras justo sed quis ullamcorper. Sem augue, amet accumsan bibendum morbi, malesuada nunc quam interdum, id magna orci. Dui eleifend libero, nulla magna, dictum sit, donec vestibulum ultrices, nullam rutrum vestibulum tempor elit. Luctus pellentesque est, nec pretium vestibulum faucibus at eros. Risus senectus velit, enim vel, sodales duis eu condimentum sed integer lacus, convallis nunc magna vestibulum.&lt;/p&gt;
 </description>
         <pubDate>Tue, 20 Sep 2016 00:00:00 +0000</pubDate>
-        <link>http://example.com/test-jekyll/posts/a-post-test</link>
-        <guid isPermaLink="true">http://example.com/test-jekyll/posts/a-post-test</guid>
+        <link>http://example.com/test-jekyll/</link>
+        <guid isPermaLink="true">http://example.com/test-jekyll/</guid>
         
         
       </item>
@@ -94,8 +94,8 @@
         <description>&lt;p&gt;Lorem ipsum dolor sit amet, semper et risus et libero, imperdiet ante enim congue. Consequat felis velit lobortis ultrices volutpat, nonummy turpis, condimentum mauris donec, odio cras, platea dapibus cras justo sed quis ullamcorper. Sem augue, amet accumsan bibendum morbi, malesuada nunc quam interdum, id magna orci. Dui eleifend libero, nulla magna, dictum sit, donec vestibulum ultrices, nullam rutrum vestibulum tempor elit. Luctus pellentesque est, nec pretium vestibulum faucibus at eros. Risus senectus velit, enim vel, sodales duis eu condimentum sed integer lacus, convallis nunc magna vestibulum.&lt;/p&gt;
 </description>
         <pubDate>Tue, 20 Sep 2016 00:00:00 +0000</pubDate>
-        <link>http://example.com/test-jekyll/posts/a-post-test-4</link>
-        <guid isPermaLink="true">http://example.com/test-jekyll/posts/a-post-test-4</guid>
+        <link>http://example.com/test-jekyll/</link>
+        <guid isPermaLink="true">http://example.com/test-jekyll/</guid>
         
         
       </item>
@@ -678,8 +678,8 @@ appointment[2] ┬ .sdate ┬ .day
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-        <link>http://example.com/test-jekyll/posts/le-strutture</link>
-        <guid isPermaLink="true">http://example.com/test-jekyll/posts/le-strutture</guid>
+        <link>http://example.com/test-jekyll/</link>
+        <guid isPermaLink="true">http://example.com/test-jekyll/</guid>
         
         
       </item>
@@ -776,8 +776,8 @@ number = 30
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 24 Aug 2016 00:00:00 +0000</pubDate>
-        <link>http://example.com/test-jekyll/posts/const-and-scanf</link>
-        <guid isPermaLink="true">http://example.com/test-jekyll/posts/const-and-scanf</guid>
+        <link>http://example.com/test-jekyll/</link>
+        <guid isPermaLink="true">http://example.com/test-jekyll/</guid>
         
         
       </item>

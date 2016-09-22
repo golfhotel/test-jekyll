@@ -111,6 +111,7 @@ defaults:
     type: posts
   values:
     layout: post
+    permalink: ''
     author: Mr. Jack
     categories: 
     summary: ''
