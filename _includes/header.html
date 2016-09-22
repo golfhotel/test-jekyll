@@ -15,9 +15,9 @@
 
       <div class="trigger">
         {% for my_page in site.pages %}
-          {% if my_page.title %}
+          {% if my_page.add_to_top_menu && my_page.title %}
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">
-            {% if my_page.in_menu %} {{ my_page.in_menu }} 
+            {% if my_page.name_in_menu %} {{ my_page.name_in_menu }} 
             {% else %}{{ my_page.title | escape }} 
             {% endif %}
           </a>

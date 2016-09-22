@@ -29,7 +29,6 @@ markdown: kramdown
 
 permalink: /:collection/:title
 
-
 defaults:
   -
     scope:
@@ -37,6 +36,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      permalink: "/"
       author: "Mr. Jack"
       categories: 
       summary: ""
@@ -48,4 +48,6 @@ defaults:
     values:
       layout: "default"
       summary: ""
-      keywords: ""      
+      keywords: ""
+      add_to_top_menu: "true"
+      add_to_bottom_menu: "true"

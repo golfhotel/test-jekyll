@@ -22,3 +22,8 @@ gem "jekyll", "3.2.1"
 # group :jekyll_plugins do
 #   gem "jekyll-github-metadata", "~> 1.0"
 # end
+
+# A Jekyll plugin that provides users with a traditional CMS-style 
+# graphical interface to author content and administer Jekyll sites.
+# https://github.com/jekyll/jekyll-admin
+gem 'jekyll-admin', group: :jekyll_plugins
