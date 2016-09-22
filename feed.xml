@@ -6,15 +6,15 @@
 </description>
     <link>http://example.com/test-jekyll/</link>
     <atom:link href="http://example.com/test-jekyll/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 22 Sep 2016 12:45:12 +0200</pubDate>
-    <lastBuildDate>Thu, 22 Sep 2016 12:45:12 +0200</lastBuildDate>
+    <pubDate>Thu, 22 Sep 2016 12:46:09 +0200</pubDate>
+    <lastBuildDate>Thu, 22 Sep 2016 12:46:09 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>Foo</title>
-        <description>&lt;p&gt;&lt;strong&gt;second&lt;/strong&gt; Lorem ipsum dolor sit amet, semper et risus et libero, imperdiet ante enim congue. Consequat felis velit lobortis ultrices volutpat, nonummy turpis, condimentum mauris donec, odio cras, platea dapibus cras justo sed quis ullamcorper. Sem augue, amet accumsan bibendum morbi, malesuada nunc quam interdum, id magna orci. Dui eleifend libero, nulla magna, dictum sit, donec vestibulum ultrices, nullam rutrum vestibulum tempor elit. Luctus pellentesque est, nec pretium vestibulum faucibus at eros. Risus senectus velit, enim vel, sodales duis eu condimentum sed integer lacus, convallis nunc magna vestibulum.&lt;/p&gt;
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, semper et risus et libero, imperdiet ante enim congue. Consequat felis velit lobortis ultrices volutpat, nonummy turpis, condimentum mauris donec, odio cras, platea dapibus cras justo sed quis ullamcorper. Sem augue, amet accumsan bibendum morbi, malesuada nunc quam interdum, id magna orci. Dui eleifend libero, nulla magna, dictum sit, donec vestibulum ultrices, nullam rutrum vestibulum tempor elit. Luctus pellentesque est, nec pretium vestibulum faucibus at eros. Risus senectus velit, enim vel, sodales duis eu condimentum sed integer lacus, convallis nunc magna vestibulum.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 22 Sep 2016 12:44:00 +0200</pubDate>
+        <pubDate>Thu, 22 Sep 2016 00:00:00 +0200</pubDate>
         <link>http://example.com/test-jekyll/posts/foo</link>
         <guid isPermaLink="true">http://example.com/test-jekyll/posts/foo</guid>
         
