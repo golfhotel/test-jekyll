@@ -6,8 +6,8 @@
 </description>
     <link>http://example.com/test-jekyll/</link>
     <atom:link href="http://example.com/test-jekyll/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 22 Sep 2016 18:07:47 +0000</pubDate>
-    <lastBuildDate>Thu, 22 Sep 2016 18:07:47 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Sep 2016 18:12:21 +0000</pubDate>
+    <lastBuildDate>Thu, 22 Sep 2016 18:12:21 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -599,8 +599,8 @@ appointment[2] ┬ .sdate ┬ .day
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-        <link>http://example.com/test-jekyll/</link>
-        <guid isPermaLink="true">http://example.com/test-jekyll/</guid>
+        <link>http://example.com/test-jekyll/posts/le-strutture</link>
+        <guid isPermaLink="true">http://example.com/test-jekyll/posts/le-strutture</guid>
         
         
       </item>
@@ -697,8 +697,8 @@ number = 30
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 24 Aug 2016 12:00:00 +0000</pubDate>
-        <link>http://example.com/test-jekyll/</link>
-        <guid isPermaLink="true">http://example.com/test-jekyll/</guid>
+        <link>http://example.com/test-jekyll/posts/const-and-scanf</link>
+        <guid isPermaLink="true">http://example.com/test-jekyll/posts/const-and-scanf</guid>
         
         
       </item>
@@ -781,8 +781,8 @@ Valore di y: 7
 
 </description>
         <pubDate>Tue, 23 Aug 2016 14:00:00 +0000</pubDate>
-        <link>http://example.com/test-jekyll/</link>
-        <guid isPermaLink="true">http://example.com/test-jekyll/</guid>
+        <link>http://example.com/test-jekyll/posts/funzioni-e-memoria-stack</link>
+        <guid isPermaLink="true">http://example.com/test-jekyll/posts/funzioni-e-memoria-stack</guid>
         
         
       </item>
@@ -916,8 +916,8 @@ Inserisci una parola: qweeerty
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 22 Aug 2016 12:00:00 +0000</pubDate>
-        <link>http://example.com/test-jekyll/</link>
-        <guid isPermaLink="true">http://example.com/test-jekyll/</guid>
+        <link>http://example.com/test-jekyll/posts/gestire-le-stringhe-con-getchar</link>
+        <guid isPermaLink="true">http://example.com/test-jekyll/posts/gestire-le-stringhe-con-getchar</guid>
         
         
       </item>
@@ -931,8 +931,8 @@ Inserisci una parola: qweeerty
 &lt;p&gt;Lorem ipsum dolor sit amet, lacinia adipiscing quisque, nam ipsum amet non, elit maecenas pede eget nulla, faucibus fringilla purus dolor maecenas. Laboris tellus senectus luctus tellus quam vestibulum, massa odio a lacus nulla vestibulum, odio fermentum nibh. Rhoncus nec aliquam vel hendrerit excepteur, non suspendisse duis feugiat vitae, lacinia eros eget mollis integer, in montes proin cras adipiscing fermentum nunc. Suscipit quis et convallis rhoncus, vestibulum luctus sapien vehicula est vestibulum. Mollis nonummy neque montes sodales, nibh eu, eros amet mauris aptent pede sit donec, et aenean congue imperdiet velit integer. Semper purus magna justo. Porta sed. Integer at integer sollicitudin ipsum erat eu, inceptos fusce. Wisi vestibulum pulvinar elit in. In vitae sem, orci nibh aliquet accumsan, in neque et turpis semper, vel varius arcu faucibus risus ac felis, varius dignissim in.&lt;/p&gt;
 </description>
         <pubDate>Wed, 10 Aug 2016 00:00:00 +0000</pubDate>
-        <link>http://example.com/test-jekyll/</link>
-        <guid isPermaLink="true">http://example.com/test-jekyll/</guid>
+        <link>http://example.com/test-jekyll/posts/ipset-lorum-ipse</link>
+        <guid isPermaLink="true">http://example.com/test-jekyll/posts/ipset-lorum-ipse</guid>
         
         
       </item>
@@ -955,8 +955,8 @@ Inserisci una parola: qweeerty
 
 </description>
         <pubDate>Thu, 04 Aug 2016 09:21:23 +0000</pubDate>
-        <link>http://example.com/test-jekyll/</link>
-        <guid isPermaLink="true">http://example.com/test-jekyll/</guid>
+        <link>http://example.com/test-jekyll/posts/have-good-day</link>
+        <guid isPermaLink="true">http://example.com/test-jekyll/posts/have-good-day</guid>
         
         
         <category>demo</category>
@@ -981,8 +981,8 @@ Inserisci una parola: qweeerty
 
 </description>
         <pubDate>Wed, 03 Aug 2016 14:21:23 +0000</pubDate>
-        <link>http://example.com/test-jekyll/</link>
-        <guid isPermaLink="true">http://example.com/test-jekyll/</guid>
+        <link>http://example.com/test-jekyll/posts/welcome-to-jekyll</link>
+        <guid isPermaLink="true">http://example.com/test-jekyll/posts/welcome-to-jekyll</guid>
         
         
         <category>demo</category>
