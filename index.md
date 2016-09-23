@@ -1,6 +1,6 @@
 ---
 title: Ipset lorum ipse
-excerpt: Descrizione descr descr descr descr descr descr descr 
+excerpt: Descrizione descr descr descr descr descr descr descr
 keywords: uno, due, tre
 add_to_top_menu: false
 add_to_bottom_menu: false

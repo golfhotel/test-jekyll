@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Contact
-permalink: /contact
+layout: default
+permalink: "/contact"
 excerpt: Contact description
 ---
 
