@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-
+ruby RUBY_VERSION
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -9,7 +9,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "3.2.1"
+# gem "jekyll", "3.2.1"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima"
@@ -27,3 +27,4 @@ gem "jekyll", "3.2.1"
 # graphical interface to author content and administer Jekyll sites.
 # https://github.com/jekyll/jekyll-admin
 gem 'jekyll-admin', group: :jekyll_plugins
+gem "jekyll", "3.2.1"
