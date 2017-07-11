@@ -1,10 +1,12 @@
 ---
 title: Forestry test
-date: '2016-10-19 01:00:48'
+date: '2016-10-19T01:00:48.246+02:00'
 layout: post
-permalink: 
 author: Mr. Jack
 categories: ''
 summary: ''
 keywords: ''
 ---
+
+
+{{ page.textfield }}
