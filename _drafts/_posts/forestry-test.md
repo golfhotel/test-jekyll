@@ -8,7 +8,7 @@ layout: post
 summary: ''
 title: Forestry test
 upload_your_photo: ''
-demo_text_field: ''
+demo_text_field: Ipset lorem ipse
 ---
 
 
