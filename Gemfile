@@ -26,5 +26,5 @@ ruby RUBY_VERSION
 # A Jekyll plugin that provides users with a traditional CMS-style 
 # graphical interface to author content and administer Jekyll sites.
 # https://github.com/jekyll/jekyll-admin
-gem 'jekyll-admin', group: :jekyll_plugins
+
 gem "jekyll", "3.2.1"
