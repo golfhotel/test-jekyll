@@ -6,6 +6,8 @@ author: Mr. Jack
 categories: ''
 summary: ''
 keywords: ''
+foo_label: ''
+upload_your_photo: ''
 ---
 
 
