@@ -1,9 +1,11 @@
 ---
 title: Test draft
-date: '2016-09-22 14:21:23'
+date: '2016-09-22T14:21:23+00:00'
 layout: post
 categories: demo
 summary: Sono la descrizione del post ddd
+foo_label: ''
+upload_your_photo: ''
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
