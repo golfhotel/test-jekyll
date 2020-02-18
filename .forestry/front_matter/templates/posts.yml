@@ -1,0 +1,53 @@
+---
+label: Posts
+hide_body: false
+fields:
+- name: title
+  default: Welcome to Jekyll!
+  label: Title
+  type: text
+  hidden: false
+- name: date
+  default: '2016-08-03T14:21:23+00:00'
+  label: Date
+  type: datetime
+  hidden: false
+- name: layout
+  default: post
+  label: Layout
+  type: text
+  hidden: false
+- name: categories
+  default: demo
+  label: Categories
+  type: text
+  hidden: false
+- name: summary
+  default: Sono la descrizione del post ddd
+  label: Summary
+  type: textarea
+  hidden: false
+- name: author
+  default: evy
+  label: Author
+  type: text
+  hidden: false
+- name: permalink
+  default: upcoming-post-custom
+  label: Permalink
+  type: text
+  hidden: false
+- name: keywords
+  default: ''
+  label: Keywords
+  type: text
+  hidden: false
+pages:
+- _posts/2016-08-03-welcome-to-jekyll.markdown
+- _posts/2016-08-04-have-good-day.markdown
+- _posts/2016-08-11-ipset-lorum-ipse.md
+- _posts/2016-08-22-gestire-le stringhe-con-getchar.md
+- _posts/2016-08-23-funzioni-e-memoria-stack.md
+- _posts/2016-08-24-const-and-scanf.md
+- _posts/2016-09-01-le-strutture.md
+- _posts/2016-09-22-upcomingpost.md

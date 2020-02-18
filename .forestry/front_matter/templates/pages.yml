@@ -1,0 +1,60 @@
+---
+label: Pages
+hide_body: false
+fields:
+- name: title
+  default: About
+  label: Title
+  type: text
+  hidden: false
+- name: summary
+  default: Ipset lorum ipset loret amert lorum ipset loret amert
+  label: Summary
+  type: text
+  hidden: false
+- name: name_in_menu
+  default: Blog
+  label: Name in menu
+  type: text
+  hidden: false
+- name: layout
+  default: default
+  label: Layout
+  type: text
+  hidden: false
+- name: permalink
+  default: "/contact"
+  label: Permalink
+  type: text
+  hidden: false
+- name: excerpt
+  default: Contact description
+  label: Excerpt
+  type: text
+  hidden: false
+- name: keywords
+  default: uno, due, tre
+  label: Keywords
+  type: text
+  hidden: false
+- name: add_to_top_menu
+  default: false
+  label: Add to top menu
+  type: boolean
+  hidden: false
+- name: add_to_bottom_menu
+  default: false
+  label: Add to bottom menu
+  type: boolean
+  hidden: false
+- name: date
+  default: '2016-08-11T00:00:00+00:00'
+  label: Date
+  type: datetime
+  hidden: false
+pages:
+- about.md
+- blog.html
+- contact.md
+- index.md
+- information.md

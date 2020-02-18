@@ -1,0 +1,18 @@
+---
+label: Request
+hide_body: false
+fields:
+- type: textarea
+  label: Foo Label
+  name: foo_label
+  description: It's foo label.
+  hidden: ''
+- type: file
+  name: upload_your_photo
+  label: Upload your photo
+  description: You can send any format.
+  hidden: ''
+- type: text
+  name: demo_text_field
+  label: Demo text field
+  description: It's text field
