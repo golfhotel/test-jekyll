@@ -9,7 +9,7 @@ ruby RUBY_VERSION
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-# gem "jekyll", "3.2.1"
+gem "jekyll", "3.2.1"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima"
@@ -26,5 +26,4 @@ ruby RUBY_VERSION
 # A Jekyll plugin that provides users with a traditional CMS-style 
 # graphical interface to author content and administer Jekyll sites.
 # https://github.com/jekyll/jekyll-admin
-
-gem "jekyll", "3.2.1"
+gem 'jekyll-admin', group: :jekyll_plugins
